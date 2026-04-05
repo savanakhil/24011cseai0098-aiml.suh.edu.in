@@ -1,0 +1,7 @@
+{
+  "name": "Lost & Found Campus Connect",
+  "description": "A modern platform for reporting and recovering lost items in campuses and public places.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
